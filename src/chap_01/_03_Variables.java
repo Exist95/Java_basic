@@ -24,8 +24,9 @@ public class _03_Variables {
         System.out.println(d); //3.14123123123 => 깊은 소수점까지 필요하다면 double 사용할 것.
         System.out.println(f); //3.1412313
 
-        long l = 100000000000L; //long 자료형은 뒤에 L을 붙일 것, 21억 초과 시 long 사용
-        l = 1_000_000_000_000L; //컴퓨터는 위와 동일하게 인식
+        long I = 100000000000L; //long 자료형은 뒤에 L을 붙일 것, 21억 초과 시 long 사용
+        long l = 1_000_000_000_000L; //컴퓨터는 위와 동일하게 인식
+        System.out.println(I);
         System.out.println(l);
     }
 }
