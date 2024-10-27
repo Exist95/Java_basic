@@ -1,6 +1,4 @@
-package inflearn;
-
-import java.util.Scanner;
+package gugudan;
 
 public class Gugudan {
     public static int[] calculate(int times) {

@@ -1,4 +1,4 @@
-package inflearn;
+package gugudan;
 
 public class GugudanMain {
     public static void main(String[] args) {
