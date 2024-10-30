@@ -4,6 +4,10 @@ package fastcampus;
 // 자바는 클래스(Class) 단위로 프로그래밍을 해야 한다 : 프로그래밍 관점
 // 메서드(Method) : 동장을 처리하는 함수(function)
 
+// JVM => Java Virtual Machine
+// Java의 첫 번째 큰 특징은 플랫폼 독립적인(OS 상관없이) 개발이 가능하다는 것
+// 자동으로 메모리를 관리해준다는 것
+
 
 public class chap_02 {
     public static void main1(String[] args) {
