@@ -9,7 +9,7 @@ package fastcampus;
 // 자동으로 메모리를 관리해준다는 것
 
 
-public class chap_02 {
+public class Calculator {
     public static void main1(String[] args) {
         int a, b, sum;
         a = 1;
