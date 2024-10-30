@@ -13,5 +13,14 @@ public class CharExam {
         int d = getNum('4');
         int e = getNum('5');
         System.out.println(a+b+c+d+e);
+
+        int sum = 0;
+        sum = sum+('1'-'0');
+        sum = sum+('2'-'0');
+        sum = sum+('3'-'0');
+        sum = sum+('4'-'0');
+        sum = sum+('5'-'0');
+        System.out.println(sum);
+
     }
 }
