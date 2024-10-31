@@ -1,6 +1,6 @@
 package fastcampus;
 
-public class BinaryTest {
+public class _02_BinaryTest {
     public static void main(String[] args) {
         int a = 10;
         float f = 35.6f;

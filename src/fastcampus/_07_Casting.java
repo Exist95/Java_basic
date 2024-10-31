@@ -1,6 +1,6 @@
 package fastcampus;
 
-public class Casting {
+public class _07_Casting {
     // 형 변환 (Casting)이란? 값의 타입을 다른 타입으로 변환하는 것
     // 자동형변환(묵시적) : 작은 type이 큰 type에 저장되는 경우 (byte -> int)
     // 강제형변환(명시적) : 큰 type이 작은 type에 저장되는 경우 (int -> byte, 손실발생)

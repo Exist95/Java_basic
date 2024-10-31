@@ -1,6 +1,6 @@
 package fastcampus;
 
-public class CharExam {
+public class _05_CharExam {
     public static int getNum(char num) {
         return Character.getNumericValue(num);
     }

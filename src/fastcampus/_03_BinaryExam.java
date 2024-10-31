@@ -1,6 +1,6 @@
 package fastcampus;
 
-public class BinaryExam {
+public class _03_BinaryExam {
     public static void main(String[] args) {
         // Q. 123을 10진수, 2진수, 8진수, 16진수로 출력하시오.
 
