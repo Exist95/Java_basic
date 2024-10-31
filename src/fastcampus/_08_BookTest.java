@@ -16,9 +16,10 @@ public class _08_BookTest {
         System.out.println(title+"\t"+price+"\t"+company+"\t"+author+"\t"+page+"\t"+ISBN);
 
         // Q. [책] 한 권을 저장할 변수를 선언하시오.
-        _09_Book b;
+        _09_Book b; //객체변수
 
     }
+
     public static void printBook() {
 
     }
