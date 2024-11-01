@@ -11,7 +11,7 @@ public class _32_SwitchCaseTest {
                 System.out.println("농구하기");
                 break;
             case "Tuesday" :
-            case "Wednseday" :
+            case "Wednesday" :
                 System.out.println("수영하기");
                 break;
             default:
