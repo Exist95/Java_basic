@@ -14,5 +14,12 @@ public class _34_WhileLoopTest {
             System.out.println(numbers[i]);
             i++;
         }
+
+        System.out.println(i);
+        i = 1;
+        do {
+            System.out.println(i);
+            i++;
+        } while (i<=5);
     }
 }
