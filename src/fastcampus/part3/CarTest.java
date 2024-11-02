@@ -1,6 +1,7 @@
 package fastcampus.part3;
 
 import fastcampus.model.CarDTO;
+import fastcampus.model.CarDAO;
 
 import java.util.Scanner;
 
@@ -44,6 +45,7 @@ public class CarTest {
         car.carYear=carYear;
         car.carType=carType;
 
-
+        CarDAO dao = new CarDAO();
+        dao.carInsert(car);
     }
 }
