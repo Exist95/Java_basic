@@ -79,4 +79,6 @@ public class MovieVO {
                 ", level=" + level +
                 '}';
     }
+
+
 }
