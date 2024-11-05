@@ -1,4 +1,4 @@
-package gugudan;
+package _gugudan;
 
 public class Gugudan {
     public static int[] calculate(int times) {
